@@ -68,6 +68,7 @@ augroup black_on_save
   autocmd BufWritePre *.py Black
 augroup end
 
+"filetype plugin indent on
 set backspace=3
 set tabstop=4
-"filetype plugin indent on
+set shiftwidth=4
