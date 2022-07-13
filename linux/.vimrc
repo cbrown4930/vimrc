@@ -72,3 +72,5 @@ augroup end
 set backspace=3
 set tabstop=4
 set shiftwidth=4
+set list
+set listchars=tab:>-,trail:-
